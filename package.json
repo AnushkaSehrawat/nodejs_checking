@@ -1,0 +1,28 @@
+{
+  "name": "nodejs_checking",
+  "version": "1.0.0",
+  "description": "checking purpose!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "checking",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnushkaSehrawat/nodejs_checking.git"
+  },
+  "keywords": [
+    "checking",
+    "nodejs"
+  ],
+  "author": "anushhka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnushkaSehrawat/nodejs_checking/issues"
+  },
+  "homepage": "https://github.com/AnushkaSehrawat/nodejs_checking#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  }
+}
